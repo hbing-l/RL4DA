@@ -1,0 +1,5 @@
+2024-05-22 02:22:34,518 - root - INFO - Using GPU: GeForce RTX 3090
+2024-05-22 02:22:42,730 - root - INFO - selected domain list=0, reward:0.5840159058570862
+2024-05-22 02:22:46,574 - root - INFO - selected domain list=0, reward:0.5499940514564514
+2024-05-22 02:22:50,427 - root - INFO - selected domain list=0, reward:0.5258103609085083
+2024-05-22 02:22:54,393 - root - INFO - selected domain list=0, reward:0.5092290043830872

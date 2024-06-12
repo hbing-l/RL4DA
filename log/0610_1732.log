@@ -1,0 +1,174 @@
+2024-06-10 17:32:14,722 - root - INFO - Using GPU: NVIDIA GeForce RTX 3080
+2024-06-10 17:32:24,459 - root - INFO - selected domain list=0, reward:0.003211199538782239
+2024-06-10 17:32:31,885 - root - INFO - selected domain list=0, reward:0.006264308001846075
+2024-06-10 17:32:39,069 - root - INFO - selected domain list=0, reward:0.006943307816982269
+2024-06-10 17:32:41,622 - root - INFO - selected domain list=0, reward:0.007225175853818655
+2024-06-10 17:32:41,630 - root - INFO - selection probs: [0.4833810329437256, 0.48328229784965515, 0.48324060440063477, 0.4832354485988617]
+2024-06-10 17:32:49,485 - root - INFO - selected domain list=0, reward:0.007151857949793339
+2024-06-10 17:32:57,436 - root - INFO - selected domain list=0, reward:0.00817947369068861
+2024-06-10 17:33:05,145 - root - INFO - selected domain list=0, reward:0.009237951599061489
+2024-06-10 17:33:10,330 - root - INFO - selected domain list=0, reward:0.010414131917059422
+2024-06-10 17:33:10,338 - root - INFO - selection probs: [0.4832102954387665, 0.48318761587142944, 0.4831148386001587, 0.4831334054470062]
+2024-06-10 17:33:15,799 - root - INFO - selected domain list=0, reward:0.01233898289501667
+2024-06-10 17:33:23,123 - root - INFO - selected domain list=0, reward:0.014738500118255615
+2024-06-10 17:33:30,505 - root - INFO - selected domain list=0, reward:0.016878100112080574
+2024-06-10 17:33:37,893 - root - INFO - selected domain list=0, reward:0.018359262496232986
+2024-06-10 17:33:37,901 - root - INFO - selection probs: [0.48312559723854065, 0.48309263586997986, 0.4831600785255432, 0.4831978380680084]
+2024-06-10 17:33:37,983 - root - INFO - Epoch 1/100 - Policy Loss: 7.778323173522949, Predictor Loss: 0.8725520968437195, Reward: 0.010078521445393562
+2024-06-10 17:33:37,983 - root - INFO - Selected domain: [[], [], []]
+2024-06-10 17:33:38,059 - root - INFO - Accuracy on test target domain: 0.11
+2024-06-10 17:33:38,059 - root - INFO - Selected test domain index: []
+2024-06-10 17:33:38,077 - root - INFO - saving best testing model of acc 0.11
+2024-06-10 17:33:40,779 - root - INFO - selected domain list=0, reward:0.020055407658219337
+2024-06-10 17:33:47,914 - root - INFO - selected domain list=0, reward:0.02186727337539196
+2024-06-10 17:33:52,808 - root - INFO - selected domain list=0, reward:0.024491742253303528
+2024-06-10 17:33:59,823 - root - INFO - selected domain list=0, reward:0.02916489914059639
+2024-06-10 17:33:59,830 - root - INFO - selection probs: [0.4965273439884186, 0.4965399205684662, 0.4965648651123047, 0.49664804339408875]
+2024-06-10 17:34:04,614 - root - INFO - selected domain list=0, reward:0.034217141568660736
+2024-06-10 17:34:11,791 - root - INFO - selected domain list=0, reward:0.0399370938539505
+2024-06-10 17:34:16,140 - root - INFO - selected domain list=0, reward:0.04461376368999481
+2024-06-10 17:34:22,979 - root - INFO - selected domain list=0, reward:0.047943904995918274
+2024-06-10 17:34:22,982 - root - INFO - selection probs: [0.4967144727706909, 0.4967918395996094, 0.4968199133872986, 0.4968472123146057]
+2024-06-10 17:34:29,861 - root - INFO - selected domain list=0, reward:0.05081190541386604
+2024-06-10 17:34:36,525 - root - INFO - selected domain list=0, reward:0.052979111671447754
+2024-06-10 17:34:44,319 - root - INFO - selected domain list=0, reward:0.05434306710958481
+2024-06-10 17:34:48,497 - root - INFO - selected domain list=0, reward:0.055074285715818405
+2024-06-10 17:34:48,500 - root - INFO - selection probs: [0.49681350588798523, 0.496769517660141, 0.49669256806373596, 0.4966926574707031]
+2024-06-10 17:34:48,578 - root - INFO - Epoch 2/100 - Policy Loss: 28.478919982910156, Predictor Loss: 0.5342274904251099, Reward: 0.03962496668100357
+2024-06-10 17:34:48,578 - root - INFO - Selected domain: [[], [], []]
+2024-06-10 17:34:48,657 - root - INFO - Accuracy on test target domain: 0.07
+2024-06-10 17:34:48,657 - root - INFO - Selected test domain index: []
+2024-06-10 17:34:53,061 - root - INFO - selected domain list=0, reward:0.055364202708005905
+2024-06-10 17:34:59,819 - root - INFO - selected domain list=0, reward:0.05508919060230255
+2024-06-10 17:35:06,557 - root - INFO - selected domain list=0, reward:0.05409034341573715
+2024-06-10 17:35:13,431 - root - INFO - selected domain list=0, reward:0.052947062999010086
+2024-06-10 17:35:13,435 - root - INFO - selection probs: [0.5086816549301147, 0.5086938142776489, 0.5086037516593933, 0.5085563659667969]
+2024-06-10 17:35:20,344 - root - INFO - selected domain list=0, reward:0.05177627503871918
+2024-06-10 17:35:28,216 - root - INFO - selected domain list=0, reward:0.050431665033102036
+2024-06-10 17:35:32,808 - root - INFO - selected domain list=0, reward:0.0481782928109169
+2024-06-10 17:35:39,775 - root - INFO - selected domain list=0, reward:0.04670512303709984
+2024-06-10 17:35:39,780 - root - INFO - selection probs: [0.5085259675979614, 0.5084116458892822, 0.5083523392677307, 0.5082576870918274]
+2024-06-10 17:35:46,865 - root - INFO - selected domain list=0, reward:0.04526396095752716
+2024-06-10 17:35:53,873 - root - INFO - selected domain list=0, reward:0.044233620166778564
+2024-06-10 17:36:00,841 - root - INFO - selected domain list=0, reward:0.04332277178764343
+2024-06-10 17:36:07,885 - root - INFO - selected domain list=0, reward:0.042705439031124115
+2024-06-10 17:36:07,890 - root - INFO - selection probs: [0.5081587433815002, 0.5081261992454529, 0.5080665946006775, 0.5080785751342773]
+2024-06-10 17:36:07,969 - root - INFO - Epoch 3/100 - Policy Loss: 32.55449295043945, Predictor Loss: 0.4565960764884949, Reward: 0.04917566105723381
+2024-06-10 17:36:07,969 - root - INFO - Selected domain: [[], [], []]
+2024-06-10 17:36:08,117 - root - INFO - Accuracy on test target domain: 0.08
+2024-06-10 17:36:08,117 - root - INFO - Selected test domain index: []
+2024-06-10 17:36:14,436 - root - INFO - selected domain list=0, reward:0.042328283190727234
+2024-06-10 17:36:18,831 - root - INFO - selected domain list=0, reward:0.04310145601630211
+2024-06-10 17:36:25,280 - root - INFO - selected domain list=0, reward:0.04413928836584091
+2024-06-10 17:36:27,079 - root - INFO - selected domain list=0, reward:0.045411042869091034
+2024-06-10 17:36:27,084 - root - INFO - selection probs: [0.5196706056594849, 0.5196870565414429, 0.5198144912719727, 0.5198372602462769]
+2024-06-10 17:36:31,330 - root - INFO - selected domain list=0, reward:0.04686543345451355
+2024-06-10 17:36:35,374 - root - INFO - selected domain list=0, reward:0.047959424555301666
+2024-06-10 17:36:39,645 - root - INFO - selected domain list=0, reward:0.04860614612698555
+2024-06-10 17:36:46,680 - root - INFO - selected domain list=0, reward:0.04908369854092598
+2024-06-10 17:36:46,684 - root - INFO - selection probs: [0.5199615359306335, 0.5199989080429077, 0.5199873447418213, 0.5200056433677673]
+2024-06-10 17:36:50,763 - root - INFO - selected domain list=0, reward:0.04945915937423706
+2024-06-10 17:36:55,038 - root - INFO - selected domain list=0, reward:0.04965396225452423
+2024-06-10 17:37:00,657 - root - INFO - selected domain list=0, reward:0.04949456825852394
+2024-06-10 17:37:07,515 - root - INFO - selected domain list=0, reward:0.04920538514852524
+2024-06-10 17:37:07,518 - root - INFO - selection probs: [0.5201116800308228, 0.5200797915458679, 0.5199880003929138, 0.5199651718139648]
+2024-06-10 17:37:07,604 - root - INFO - Epoch 4/100 - Policy Loss: 30.683788299560547, Predictor Loss: 0.4253230690956116, Reward: 0.04710898920893669
+2024-06-10 17:37:07,604 - root - INFO - Selected domain: [[], [], []]
+2024-06-10 17:37:07,693 - root - INFO - Accuracy on test target domain: 0.08
+2024-06-10 17:37:07,693 - root - INFO - Selected test domain index: []
+2024-06-10 17:37:14,219 - root - INFO - selected domain list=0, reward:0.04881379380822182
+2024-06-10 17:37:20,470 - root - INFO - selected domain list=0, reward:0.04835609719157219
+2024-06-10 17:37:24,613 - root - INFO - selected domain list=0, reward:0.04784117266535759
+2024-06-10 17:37:31,305 - root - INFO - selected domain list=0, reward:0.04729883000254631
+2024-06-10 17:37:31,309 - root - INFO - selection probs: [0.5318583846092224, 0.5316768288612366, 0.5316221117973328, 0.5316171646118164]
+2024-06-10 17:37:37,770 - root - INFO - selected domain list=0, reward:0.04672931134700775
+2024-06-10 17:37:44,641 - root - INFO - selected domain list=0, reward:0.046207673847675323
+2024-06-10 17:37:51,650 - root - INFO - selected domain list=0, reward:0.04586842656135559
+2024-06-10 17:37:58,701 - root - INFO - selected domain list=0, reward:0.04568057507276535
+2024-06-10 17:37:58,706 - root - INFO - selection probs: [0.531489908695221, 0.5314735770225525, 0.5315045118331909, 0.5315269231796265]
+2024-06-10 17:38:03,060 - root - INFO - selected domain list=0, reward:0.045663539320230484
+2024-06-10 17:38:09,659 - root - INFO - selected domain list=0, reward:0.045760493725538254
+2024-06-10 17:38:16,270 - root - INFO - selected domain list=0, reward:0.04592739790678024
+2024-06-10 17:38:22,782 - root - INFO - selected domain list=0, reward:0.046105243265628815
+2024-06-10 17:38:22,787 - root - INFO - selection probs: [0.5314698815345764, 0.531480073928833, 0.5315862894058228, 0.5316498279571533]
+2024-06-10 17:38:22,867 - root - INFO - Epoch 5/100 - Policy Loss: 29.13551902770996, Predictor Loss: 0.41890081763267517, Reward: 0.046687714755535126
+2024-06-10 17:38:22,868 - root - INFO - Selected domain: [[], [], []]
+2024-06-10 17:38:22,946 - root - INFO - Accuracy on test target domain: 0.11
+2024-06-10 17:38:22,946 - root - INFO - Selected test domain index: []
+2024-06-10 17:38:27,309 - root - INFO - selected domain list=0, reward:0.04643501713871956
+2024-06-10 17:38:33,803 - root - INFO - selected domain list=0, reward:0.04674042761325836
+2024-06-10 17:38:40,518 - root - INFO - selected domain list=0, reward:0.04700325056910515
+2024-06-10 17:38:44,761 - root - INFO - selected domain list=0, reward:0.047191549092531204
+2024-06-10 17:38:44,765 - root - INFO - selection probs: [0.5436494946479797, 0.5436065196990967, 0.5437705516815186, 0.5436996817588806]
+2024-06-10 17:38:50,746 - root - INFO - selected domain list=0, reward:0.04729718342423439
+2024-06-10 17:38:56,770 - root - INFO - selected domain list=0, reward:0.04727084934711456
+2024-06-10 17:39:02,978 - root - INFO - selected domain list=0, reward:0.04704403504729271
+2024-06-10 17:39:09,765 - root - INFO - selected domain list=0, reward:0.04672127962112427
+2024-06-10 17:39:09,769 - root - INFO - selection probs: [0.5438230633735657, 0.5437787771224976, 0.5436609387397766, 0.5436466336250305]
+2024-06-10 17:39:16,552 - root - INFO - selected domain list=0, reward:0.04633144289255142
+2024-06-10 17:39:23,078 - root - INFO - selected domain list=0, reward:0.04587157815694809
+2024-06-10 17:39:27,130 - root - INFO - selected domain list=0, reward:0.04546842351555824
+2024-06-10 17:39:33,795 - root - INFO - selected domain list=0, reward:0.04516129568219185
+2024-06-10 17:39:33,800 - root - INFO - selection probs: [0.5436598658561707, 0.5435575246810913, 0.5434877872467041, 0.543596088886261]
+2024-06-10 17:39:33,882 - root - INFO - Epoch 6/100 - Policy Loss: 28.049360275268555, Predictor Loss: 0.41669100522994995, Reward: 0.046544697135686874
+2024-06-10 17:39:33,882 - root - INFO - Selected domain: [[], [], []]
+2024-06-10 17:39:33,981 - root - INFO - Accuracy on test target domain: 0.08
+2024-06-10 17:39:33,981 - root - INFO - Selected test domain index: []
+2024-06-10 17:39:40,808 - root - INFO - selected domain list=0, reward:0.044976089149713516
+2024-06-10 17:39:47,470 - root - INFO - selected domain list=0, reward:0.0448506623506546
+2024-06-10 17:39:54,724 - root - INFO - selected domain list=0, reward:0.04472692683339119
+2024-06-10 17:40:01,965 - root - INFO - selected domain list=0, reward:0.04466443881392479
+2024-06-10 17:40:01,970 - root - INFO - selection probs: [0.5559415817260742, 0.5558837652206421, 0.5557439923286438, 0.5557279586791992]
+2024-06-10 17:40:08,549 - root - INFO - selected domain list=0, reward:0.04472780600190163
+2024-06-10 17:40:15,737 - root - INFO - selected domain list=0, reward:0.04487365856766701
+2024-06-10 17:40:22,817 - root - INFO - selected domain list=0, reward:0.04501504451036453
+2024-06-10 17:40:29,828 - root - INFO - selected domain list=0, reward:0.045053862035274506
+2024-06-10 17:40:29,833 - root - INFO - selection probs: [0.5559199452400208, 0.5557546019554138, 0.5559174418449402, 0.5558198690414429]
+2024-06-10 17:40:36,990 - root - INFO - selected domain list=0, reward:0.04507438838481903
+2024-06-10 17:40:44,067 - root - INFO - selected domain list=0, reward:0.045005448162555695
+2024-06-10 17:40:51,174 - root - INFO - selected domain list=0, reward:0.04486444592475891
+2024-06-10 17:40:58,479 - root - INFO - selected domain list=0, reward:0.04456751048564911
+2024-06-10 17:40:58,485 - root - INFO - selection probs: [0.5558242797851562, 0.5558452606201172, 0.5559581518173218, 0.5560141205787659]
+2024-06-10 17:40:58,568 - root - INFO - Epoch 7/100 - Policy Loss: 26.069509506225586, Predictor Loss: 0.414652943611145, Reward: 0.044866692274808884
+2024-06-10 17:40:58,568 - root - INFO - Selected domain: [[], [], []]
+2024-06-10 17:40:58,634 - root - INFO - Accuracy on test target domain: 0.08
+2024-06-10 17:40:58,634 - root - INFO - Selected test domain index: []
+2024-06-10 17:41:05,898 - root - INFO - selected domain list=0, reward:0.04433535411953926
+2024-06-10 17:41:12,519 - root - INFO - selected domain list=0, reward:0.04418078809976578
+2024-06-10 17:41:19,165 - root - INFO - selected domain list=0, reward:0.04388291761279106
+2024-06-10 17:41:25,827 - root - INFO - selected domain list=0, reward:0.04369037598371506
+2024-06-10 17:41:25,832 - root - INFO - selection probs: [0.5690926909446716, 0.5689966678619385, 0.5687804818153381, 0.5687243342399597]
+2024-06-10 17:41:32,456 - root - INFO - selected domain list=0, reward:0.04359085112810135
+2024-06-10 17:41:38,987 - root - INFO - selected domain list=0, reward:0.04357156530022621
+2024-06-10 17:41:45,771 - root - INFO - selected domain list=0, reward:0.04364786297082901
+2024-06-10 17:41:52,897 - root - INFO - selected domain list=0, reward:0.043651267886161804
+2024-06-10 17:41:52,901 - root - INFO - selection probs: [0.5686805844306946, 0.5688984394073486, 0.5686384439468384, 0.5687816739082336]
+2024-06-10 17:41:59,730 - root - INFO - selected domain list=0, reward:0.04348090663552284
+2024-06-10 17:42:06,398 - root - INFO - selected domain list=0, reward:0.043252598494291306
+2024-06-10 17:42:13,947 - root - INFO - selected domain list=0, reward:0.04318726435303688
+2024-06-10 17:42:20,489 - root - INFO - selected domain list=0, reward:0.043252382427453995
+2024-06-10 17:42:20,495 - root - INFO - selection probs: [0.5687336921691895, 0.5687962770462036, 0.5685657858848572, 0.5685845017433167]
+2024-06-10 17:42:20,581 - root - INFO - Epoch 8/100 - Policy Loss: 24.3543758392334, Predictor Loss: 0.41267889738082886, Reward: 0.04364367946982384
+2024-06-10 17:42:20,581 - root - INFO - Selected domain: [[], [], []]
+2024-06-10 17:42:20,705 - root - INFO - Accuracy on test target domain: 0.08
+2024-06-10 17:42:20,706 - root - INFO - Selected test domain index: []
+2024-06-10 17:42:25,042 - root - INFO - selected domain list=0, reward:0.04322553426027298
+2024-06-10 17:42:32,154 - root - INFO - selected domain list=0, reward:0.04313116520643234
+2024-06-10 17:42:39,226 - root - INFO - selected domain list=0, reward:0.04308546334505081
+2024-06-10 17:42:46,321 - root - INFO - selected domain list=0, reward:0.04306141659617424
+2024-06-10 17:42:46,326 - root - INFO - selection probs: [0.582273006439209, 0.5820199251174927, 0.5820190906524658, 0.5823519825935364]
+2024-06-10 17:42:53,386 - root - INFO - selected domain list=0, reward:0.042987167835235596
+2024-06-10 17:43:00,532 - root - INFO - selected domain list=0, reward:0.04267951473593712
+2024-06-10 17:43:04,996 - root - INFO - selected domain list=0, reward:0.042387280613183975
+2024-06-10 17:43:12,042 - root - INFO - selected domain list=0, reward:0.04216376319527626
+2024-06-10 17:43:12,047 - root - INFO - selection probs: [0.5822132229804993, 0.5819200873374939, 0.5818874835968018, 0.5821961760520935]
+2024-06-10 17:43:18,966 - root - INFO - selected domain list=0, reward:0.04204624891281128
+2024-06-10 17:43:25,481 - root - INFO - selected domain list=0, reward:0.04193691536784172
+2024-06-10 17:43:32,528 - root - INFO - selected domain list=0, reward:0.041890036314725876
+2024-06-10 17:43:39,349 - root - INFO - selected domain list=0, reward:0.041737526655197144
+2024-06-10 17:43:39,354 - root - INFO - selection probs: [0.5822177529335022, 0.5818485617637634, 0.5819904804229736, 0.5817528367042542]
+2024-06-10 17:43:39,436 - root - INFO - Epoch 9/100 - Policy Loss: 22.74732780456543, Predictor Loss: 0.4104723632335663, Reward: 0.04252766817808151
+2024-06-10 17:43:39,436 - root - INFO - Selected domain: [[], [], []]
+2024-06-10 17:43:39,521 - root - INFO - Accuracy on test target domain: 0.08
+2024-06-10 17:43:39,522 - root - INFO - Selected test domain index: []
+2024-06-10 17:43:46,580 - root - INFO - selected domain list=0, reward:0.04150405898690224
